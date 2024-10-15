@@ -34,7 +34,7 @@ Organisation des calques & dossiers, nommage des calques.
 
 
 ![Démo](assets/v1.gif)
-![Démo](.assets/v2.gif)
+![Démo](./assets/v2.gif)
 ![Démo](/assets/v3.gif)
 
 
