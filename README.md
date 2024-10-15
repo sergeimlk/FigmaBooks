@@ -31,7 +31,9 @@ Organisation des calques & dossiers, nommage des calques.
 - [Liens vers les maquettes Figma](https://www.figma.com/design/r7drRPTFRfaRMGEegvs7bV/BASE?node-id=4-59&t=6HR08FrROqA23LuT-1)
 - [trello](https://trello.com/b/ael3lOna/biblio)
 - [Diagramme d'activité](https://lucid.app/lucidchart/dd2affd4-d2ec-451d-a2b4-8f7deff36de7/edit?invitationId=inv_abcff057-de0a-4be0-91b3-eaf14deee8c7&page=0eqBfotfVGlV#)
-
+![Démo](v1.gif)
+![Démo](v2.gif)
+![Démo](v3.gif)
 
 
 
