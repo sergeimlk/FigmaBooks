@@ -6,7 +6,6 @@ Deadline : 2,5 à 3 jours de réalisation.*
 ## Présentation du Projet
 Dans le cadre de la refonte de l'application de gestion de livres de *Bibliomaniac*, ce projet vise à concevoir une nouvelle version destinée aux utilisateurs, qu’ils soient passionnés de lecture ou gestionnaires de bibliothèques personnelles ou professionnelles. L'objectif est de recréer et adapter six écrans de l’application à partir du document fourni, en assurant une navigation fluide (prototypage) entre eux via Figma. Deux de ces écrans devront être déclinés pour un usage desktop, en prenant en compte les spécificités de ce support.
 
-## Contexte du Projet
 
 # Objectifs
 
