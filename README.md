@@ -33,9 +33,15 @@ Organisation des calques & dossiers, nommage des calques.
 - [Diagramme d'activité](https://lucid.app/lucidchart/dd2affd4-d2ec-451d-a2b4-8f7deff36de7/edit?invitationId=inv_abcff057-de0a-4be0-91b3-eaf14deee8c7&page=0eqBfotfVGlV#)
 
 
-![Démo](assets/v1.gif)
-![Démo](./assets/v2.gif)
-![Démo](https://raw.githubusercontent.com/sergeimlk/FigmaBooks/refs/heads/main/assets/3v.gif)
+
+<p>
+  <img src="./assets/1v.gif" alt="Démo 1" width="200"/>
+  <img src="./assets/2v.gif" alt="Démo 2" width="200"/>
+  <img src="./assets/3v.gif" alt="Démo 3" width="200"/>
+</p>
+
+
+
 
 
 Contributeurs
