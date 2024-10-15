@@ -35,7 +35,7 @@ Organisation des calques & dossiers, nommage des calques.
 
 ![Démo](assets/v1.gif)
 ![Démo](./assets/v2.gif)
-![Démo](/assets/v3.gif)
+![Démo](https://raw.githubusercontent.com/sergeimlk/FigmaBooks/refs/heads/main/assets/3v.gif)
 
 
 Contributeurs
