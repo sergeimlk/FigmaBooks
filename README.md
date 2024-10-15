@@ -33,9 +33,9 @@ Organisation des calques & dossiers, nommage des calques.
 - [Diagramme d'activité](https://lucid.app/lucidchart/dd2affd4-d2ec-451d-a2b4-8f7deff36de7/edit?invitationId=inv_abcff057-de0a-4be0-91b3-eaf14deee8c7&page=0eqBfotfVGlV#)
 
 
-![Démo 1](./assets/v1.gif)
-![Démo 2](./assets/v2.gif)
-![Démo 3](./assets/v3.gif)
+![Démo](assets/v1.gif)
+![Démo](.assets/v2.gif)
+![Démo](/assets/v3.gif)
 
 
 Contributeurs
