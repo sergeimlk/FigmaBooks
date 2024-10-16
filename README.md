@@ -38,6 +38,7 @@ Organisation des calques & dossiers, nommage des calques.
   <img src="./assets/1v.gif" alt="Démo 1" width="200"/>
   <img src="./assets/2v.gif" alt="Démo 2" width="200"/>
   <img src="./assets/3v.gif" alt="Démo 3" width="200"/>
+  <img src="./assets/4v.gif" alt="Démo 4" width="200"/>
 </p>
 
 
