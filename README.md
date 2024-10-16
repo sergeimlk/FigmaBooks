@@ -43,12 +43,14 @@ Organisation des calques & dossiers, nommage des calques.
 
 
 
-<img src="./assets/diagram.png" alt="Diagram" width="200"/>
+<img src="./assets/diagram.png" alt="Diagram" width="2000"/>
 
 
 
 
-## 🤝 Contributeurs
-
-Agnès
-Sergeï
+## 🤝 Contributeurs ⚙️
+👩🏻‍💻Agnès               &               Sergeï🧑🏼‍💻
+<p>
+  <img src="https://th.bing.com/th/id/OIG4.O53TBGzr.4AXg7O0LJlc?w=1024&h=1024&rs=1&pid=ImgDetMain" alt="sergio" width="200"/>
+  <img src="https://th.bing.com/th/id/OIG1.phUNi43ncshxuySjN1_z?pid=ImgGn" alt="agnès" width="200"/>
+</p>
